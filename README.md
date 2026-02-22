@@ -3,10 +3,12 @@
 
 🎓 Administrador de Bancos de Dados (Senac Tocantins) 
 🎓 Programador Web (Senac Tocantins)  
-🎓 Programador de Sistemas (Senac Tocantins)  
+🎓 Programador de Sistemas (Senac Tocantins)
+
 💻 Desenvolvedor Web(Freelancer)
 
 ---
+
 
 ## 🚀 Tecnologias e Ferramentas que utilizo
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
@@ -20,6 +22,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </div>
 
+---
 
 
 ### 🌐 **Onde me achar**
@@ -27,8 +30,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruizxc123br/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruizxc123)
 
-
+---
 
 
 ⭐ Obrigado por visitar meu perfil!  
-Sinta-se à vontade para explorar meus projetos e me chamar para colaborar!
+Sinta-se à vontade para explorar meus projetos e me chamar para colaborar
