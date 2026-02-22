@@ -1,5 +1,6 @@
 # 👋 Olá! Eu sou Rui Ferreira Cabral Medeiros Magalhães 
 
+
 🎓 Administrador de Bancos de Dados (Senac Tocantins) 
 🎓 Programador Web (Senac Tocantins)  
 🎓 Programador de Sistemas (Senac Tocantins)  
