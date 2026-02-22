@@ -20,12 +20,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </div>
 
----
 
-## 💡 Sobre mim
-Sou apaixonado por ensinar e por transformar ideias em aplicações reais. Como desenvolvedor full stack, já criei soluções web e mobile que impactaram centenas de usuários. Na sala de aula, busco sempre aplicar metodologias ativas para tornar o aprendizado mais significativo.
-
----
 
 ### 🌐 **Onde me achar**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rui-ferreira-cabral-medeiros-magalhães-1a573737a/)
