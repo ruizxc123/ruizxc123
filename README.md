@@ -1,16 +1,15 @@
-# 👋 Olá! Eu sou Rui Ferreira Cabral Medeiros Magalhães 
+# 👋 Hello! I'm Rui Ferreira Cabral Medeiros Magalhães
 
+🎓 Database Administrator (Senac)
+🎓 Web Developer (Senac)
+🎓 Systems Programmer (Senac)
 
-🎓 Administrador de Bancos de Dados (Senac) 
-🎓 Programador Web (Senac)  
-🎓 Programador de Sistemas (Senac)
-
-💻 Desenvolvedor Web(Freelancer)
+💻 Freelance Web Developer
 
 ---
 
+## 🚀 Technologies and Tools I Use
 
-## 🚀 Tecnologias e Ferramentas que utilizo
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -24,14 +23,16 @@
 
 ---
 
+### 🌐 **Connect with Me**
 
-### 🌐 **Onde me achar**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rui-ferreira-cabral-medeiros-magalhães-1a573737a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruizxc123br/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruizxc123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rui-ferreira-cabral-medeiros-magalhães-1a573737a/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/ruizxc123br/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ruizxc123)
 
 ---
 
+⭐ Thanks for visiting my profile!
 
-⭐ Obrigado por visitar meu perfil!  
-Sinta-se à vontade para explorar meus projetos e me chamar para colaborar
+Feel free to explore my projects and reach out if you'd like to collaborate.
